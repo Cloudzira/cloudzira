@@ -20,10 +20,10 @@
 
 ```js
 const cloudzira = {
-  role:    "Digital Creator • Aesthetic AI-Augmented Developer",
+  role:    "Digital Creator • AI-Augmented Developer",
   brand:   "Kurniapedia",
   focus:   ["Web App & PWA", "Aesthetic UI", "Islamic & Education Tools"],
-  mission: "Transforming complex ideas into beautifully crafted apps | Building aesthetic digital spaces",
+  mission: "Mengubah ide kompleks menjadi aplikasi yang indah dan bermanfaat",
   status:  "online",
 };
 ```
@@ -59,7 +59,7 @@ const cloudzira = {
 
 <div align="center">
 
-<a href="https://kurniapedia.my.id"><img src="https://img.shields.io/badge/Crafted%20with%20%E2%99%A5%20by-Kurniapedia%202026-00f3ff?style=flat-square&labelColor=05060a" alt="Crafted with love by Kurniapedia 2026"/></a>
+<p align="center">Crafted with ❤️ by <a href="https://kurniapedia.my.id"><b>Kurniapedia</b></a> 2026</p>
 
 </div>
 
