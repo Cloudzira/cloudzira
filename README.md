@@ -20,10 +20,10 @@
 
 ```js
 const cloudzira = {
-  role:    "Digital Creator • AI-Augmented Developer",
+  role:    "Digital Creator • Aesthetic AI-Augmented Developer",
   brand:   "Kurniapedia",
   focus:   ["Web App & PWA", "Aesthetic UI", "Islamic & Education Tools"],
-  mission: "Mengubah ide kompleks menjadi aplikasi yang indah dan bermanfaat",
+  mission: "Transforming complex ideas into beautifully crafted apps | Building aesthetic digital spaces",
   status:  "online",
 };
 ```
