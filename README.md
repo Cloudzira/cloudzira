@@ -20,10 +20,10 @@
 
 ```js
 const cloudzira = {
-  role:    "Digital Creator • AI-Augmented Developer",
+  role:    "Digital Creator • Aesthetic AI-Augmented Developer",
   brand:   "Kurniapedia",
   focus:   ["Web App & PWA", "Aesthetic UI", "Islamic & Education Tools"],
-  mission: "Mengubah ide kompleks menjadi aplikasi yang indah dan bermanfaat",
+  mission: "Transforming complex ideas into beautifully crafted apps | Building aesthetic digital spaces",
   status:  "online",
 };
 ```
@@ -57,14 +57,9 @@ const cloudzira = {
 
 <br/>
 
-## `> stats`
-
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=cloudzira&show_icons=true&hide_border=true&bg_color=05060a&title_color=00f3ff&icon_color=b026ff&text_color=c9d1d9&ring_color=00f3ff&border_radius=12" alt="stats"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cloudzira&layout=compact&hide_border=true&bg_color=05060a&title_color=00f3ff&text_color=c9d1d9&border_radius=12&langs_count=6" alt="languages"/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=cloudzira&bg_color=05060a&color=00f3ff&line=b026ff&point=ffffff&area=true&area_color=b026ff&hide_border=true&radius=12" width="100%" alt="activity"/>
+<a href="https://kurniapedia.my.id"><img src="https://img.shields.io/badge/Crafted%20with%20%E2%99%A5%20by-Kurniapedia%202026-00f3ff?style=flat-square&labelColor=05060a" alt="Crafted with love by Kurniapedia 2026"/></a>
 
 </div>
 
