@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:05060a,55:2a0f4a,100:00f3ff&height=170&section=header&text=cloudzira&fontSize=54&fontColor=ffffff&fontAlignY=40&desc=Digital%20Creator%20%7C%20Aesthetic%20AI-Augmented%20Developer&descSize=15&descColor=c9d1d9&descAlignY=62" width="100%" alt="cloudzira"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:05060a,55:2a0f4a,100:00f3ff&height=170&section=header&text=CLOUDZIRA&fontSize=54&fontColor=ffffff&fontAlignY=40&desc=Digital%20Creator%20%7C%20Aesthetic%20AI-Augmented%20Developer&descSize=15&descColor=c9d1d9&descAlignY=62" width="100%" alt="CLOUDZIRA"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=500&size=18&duration=3500&pause=1200&color=00F3FF&center=true&vCenter=true&width=620&height=40&lines=Transforming+complex+ideas+into+beautifully+crafted+apps;Building+aesthetic+digital+spaces;Welcome+to+my+space" alt="tagline"/>
 
@@ -9,7 +9,7 @@
 <a href="https://github.com/cloudzira"><img src="https://img.shields.io/badge/GitHub-05060a?style=for-the-badge&logo=github&logoColor=00f3ff" alt="GitHub"/></a>
 <a href="https://instagram.com/kurniapedia"><img src="https://img.shields.io/badge/Instagram-05060a?style=for-the-badge&logo=instagram&logoColor=00f3ff" alt="Instagram"/></a>
 <a href="https://tiktok.com/@kurniapedia"><img src="https://img.shields.io/badge/TikTok-05060a?style=for-the-badge&logo=tiktok&logoColor=b026ff" alt="TikTok"/></a>
-<a href="https://www.youtube.com/@kurniapedia"><img src="https://img.shields.io/badge/YouTube-05060a?style=for-the-badge&logo=youtube&logoColor=ff007f" alt="YouTube"/></a>
+<a href="https://kurniapedia.my.id"><img src="https://img.shields.io/badge/Website-05060a?style=for-the-badge&logo=safari&logoColor=ff007f" alt="Website"/></a>
 <a href="https://wa.me/+6285870906050"><img src="https://img.shields.io/badge/WhatsApp-05060a?style=for-the-badge&logo=whatsapp&logoColor=00ff66" alt="WhatsApp"/></a>
 
 </div>
@@ -34,7 +34,7 @@ const cloudzira = {
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,tailwind,firebase,github,git,vercel,vscode&theme=dark" alt="stack"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,tailwind,firebase,github,vercel&theme=dark" alt="stack"/>
 
 </div>
 
@@ -46,12 +46,14 @@ const cloudzira = {
 
 | Project | Deskripsi |
 |:--|:--|
-| **KurniaLink** | Halaman link-in-bio bergaya neon dengan penghitung klik dan panel admin |
-| **TartiliKu** | Web app PWA berbasis Firebase dengan sistem login |
-| **TaqwaLife** | PWA amal yaumi harian dengan notifikasi pengingat |
-| **MutqinLab** | Murojaah dengan sistem pengulangan berjarak (SRS), mendukung ID / AR / EN |
-| **SatuMasjid** | Platform multi-masjid: kajian, kas, infaq, dan peminjaman sarana |
-| **AyatPlay Kids** | Game hafalan Al-Qur'an untuk anak-anak |
+| **TaqwaLife** | Agenda harian Muslim/Muslimah |
+| **Mushaf Pro** | Dengarkan murottal, sembunyikan ayat, dan hafalan dari awal ayat |
+| **Ramadhan Pro** | Aplikasi pendamping Ramadhanmu |
+| **DzikirKu** | Dzikir pagi petang, penghitung, dan pengingat |
+| **AyatPlay for Kids** | Game seru hafiz cilik |
+| **TalqinKu** | Talqin anak dan dewasa, Juz 28-30 |
+| **InfaqU** | Sistem manajemen infaq digital |
+| **SmartFaceKu** | Presensi futuristik dengan FaceTrack AI |
 
 <br/>
 
